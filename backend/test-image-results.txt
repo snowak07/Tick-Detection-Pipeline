@@ -1,0 +1,1 @@
+{'class': 'Amblyomma americanum', 'probability': 0.9999946355819702, 'rounded_probability': [100.0]}, 'class_probabilities': {'Amblyomma americanum': 0.9999946355819702, 'Dermacentor variabilis': 5.402063834480941e-06, 'Ixodes scapularis': 9.307022375004692e-10}
